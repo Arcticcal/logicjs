@@ -1,5 +1,6 @@
 ## Welcome to the website.
-There's not much here.
+This is just for bot help, command info, etc.
 
-Bot Invite: http://bit.ly/logicjs
+# Bot Invite: 
+http://bit.ly/logicjs
 
