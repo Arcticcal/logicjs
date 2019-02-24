@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-  project-page: false
+  is_project_page: false
